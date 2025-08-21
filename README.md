@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there, i'm Vinni 👋
 
 <!--
 **alfianavinni/alfianavinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+![Dandelion](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o3bXI2Ymd0cmZ1b2swdXV2Y2FsdjRvc3M4ZjA4b3lnN2lpZzhjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC0bLicVsCTnhtGaBq/giphy.gif)
